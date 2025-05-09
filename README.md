@@ -63,12 +63,14 @@ This project is a joint academic research undertaken as part of the requirements
 
 We gratefully acknowledge the following contributors whose dedication and input were vital to the success of this study:
 
-Emmanuel Ratemo
+* Martin Koome
 
-Hill Arimba
+* Emmanuel Ratemo
 
-Denis Mutuku
+* Hill Arimba
 
-Bravin Otieno
+* Denis Mutuku
+
+* Bravin Otieno
 
 Their contributions were instrumental in data analysis, modeling, and interpretation throughout the project.
