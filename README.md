@@ -58,6 +58,12 @@ This project investigates the student `dropout rates` in the faculty of science 
 * Jupyter Notebook
 * Statistical modeling (Kaplan-Meier, CoxPH, Log-rank)
 
+### 📢 Disclaimer on Data Confidentiality
+***Confidentiality Notice:***
+The datasets used in this project contain sensitive academic records and institutional information from the Faculty of Science and Technology at Multimedia University of Kenya. In compliance with ethical and data protection guidelines, the raw data are not publicly shared in this repository.
+
+Access to the data requires explicit authorization from the university. If you are a researcher or institution interested in collaborative work, please contact the university’s academic office or project contributors for data access protocols.
+
 ## 🎓 Contributors 
 This project is a joint academic research undertaken as part of the requirements for the award of the Bachelor of Science in Mathematics and Computer Science degree at Multimedia University of Kenya.
 
