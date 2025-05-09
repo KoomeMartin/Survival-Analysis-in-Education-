@@ -58,7 +58,7 @@ This project investigates the student `dropout rates` in the faculty of science 
 * Jupyter Notebook
 * Statistical modeling (Kaplan-Meier, CoxPH, Log-rank)
 
-## Contributors 
+## 🎓 Contributors 
 This project is a joint academic research undertaken as part of the requirements for the award of the Bachelor of Science in Mathematics and Computer Science degree at Multimedia University of Kenya.
 
 We gratefully acknowledge the following contributors whose dedication and input were vital to the success of this study:
