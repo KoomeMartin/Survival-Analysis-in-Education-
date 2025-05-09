@@ -20,11 +20,21 @@ This project investigates the student `dropout rates` in the faculty of science 
 * **Kaplan-Meier Estimation** for visualizing survival probabilities.
   
 ![Overall](https://github.com/user-attachments/assets/0fd2be08-6235-4ad1-8dd5-2ae6c5b6a69d)
+![Gender](https://github.com/user-attachments/assets/371b388f-5f3b-4b3e-bbb5-42c4ea64507c)
+![Settlement type](https://github.com/user-attachments/assets/1952562b-d1e2-4489-8ef2-432118362697)
+![Departent](https://github.com/user-attachments/assets/f724559c-d901-452b-8dd6-d303e5ef30ab)
 
 * **Log-rank tests** for comparing survival distributions.
-* **Cox Proportional Hazards model** for multivariate regression analysis.
+* **Time dependent Cox Proportional Hazards model** for multivariate regression analysis.
 
 ![Time dependent cox ph model](https://github.com/user-attachments/assets/ce9babfd-5005-4349-b007-b30aeec7a0e8)
+
+* **Time dependent Cox Proportional Hazards model with an interaction Point** for multivariate regression analysis.
+  
+![Cox Interaction point ](https://github.com/user-attachments/assets/112a6594-307c-43b2-9048-5ac5ee2a2745)
+
+* **Time independent Cox Proportional Hazards model ** for multivariate regression analysis.
+![Baseline Cox](https://github.com/user-attachments/assets/b7280449-f576-441e-91bf-2f33782e757d)
 
 
 ### 🧠 Key Findings
