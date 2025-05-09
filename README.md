@@ -1,7 +1,7 @@
 ## 🎓 Survival Analysis in Education
 
 ## CASE STUDY
-##INVESTIGATING STUDENT DROP OUT RATES USING A TIME DEPENDENT COX PROPORTIONAL HAZARDS MODEL AT THE FACULTY OF SCIENCE AND TECHNOLOGY IN MULTIMEDIA UNIVERSITY OF KENYA
+### INVESTIGATING STUDENT DROP OUT RATES USING A TIME DEPENDENT COX PROPORTIONAL HAZARDS MODEL AT THE FACULTY OF SCIENCE AND TECHNOLOGY IN MULTIMEDIA UNIVERSITY OF KENYA
 
 This project investigates the **student dropout rates in Kenyan universities** using **Survival Analysis** techniques, with a specific focus on STEM programs. The aim is to understand when and why students leave before completing their studies, and to identify key demographic and academic factors that influence dropout risk.
 
