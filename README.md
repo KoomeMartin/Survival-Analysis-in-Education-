@@ -6,7 +6,8 @@
 This project investigates the student `dropout rates` in the faculty of science and technology using `Survival Analysis` techniques, with a specific focus on the 2020 - 2024 cohort. The aim is to understand when and why students leave before completing their studies, and to identify key demographic and academic factors that influence dropout risk.
 
 ##  Overall study population 
-![Department Distribution](https://github.com/user-attachments/assets/7bdae87b-8875-4722-93ba-df2c769649d5)
+
+![Academic Status   Gender Distribution](https://github.com/user-attachments/assets/93e2c732-927b-4e63-8949-d9ac9f174210)
 
 ### 🔍 Objectives
 * Estimate student survival probabilities over a 4-year period.
