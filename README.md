@@ -1,7 +1,7 @@
 # 🎓 Survival Analysis in Education
 
 ## CASE STUDY
-### INVESTIGATING STUDENT DROP OUT RATES USING A TIME DEPENDENT COX PROPORTIONAL HAZARDS MODEL AT THE FACULTY OF SCIENCE AND TECHNOLOGY IN MULTIMEDIA UNIVERSITY OF KENYA
+### Investigating Student Drop Out Rates Using A Time Dependent Cox Proportional Hazards Model At The Faculty Of Science And Technology In Multimedia University Of Kenya
 
 This project investigates the student `dropout rates` in the faculty of science and technology using `Survival Analysis` techniques, with a specific focus on the 2020 - 2024 cohort. The aim is to understand when and why students leave before completing their studies, and to identify key demographic and academic factors that influence dropout risk.
 
@@ -33,8 +33,9 @@ This project investigates the student `dropout rates` in the faculty of science 
   
 ![Cox Interaction point ](https://github.com/user-attachments/assets/112a6594-307c-43b2-9048-5ac5ee2a2745)
 
-* **Time independent Cox Proportional Hazards model ** for multivariate regression analysis.
-![Baseline Cox](https://github.com/user-attachments/assets/b7280449-f576-441e-91bf-2f33782e757d)
+* **Time independent Cox Proportional Hazards model** for multivariate regression analysis.
+
+ ![Baseline Cox](https://github.com/user-attachments/assets/b7280449-f576-441e-91bf-2f33782e757d)
 
 
 ### 🧠 Key Findings
@@ -56,3 +57,18 @@ This project investigates the student `dropout rates` in the faculty of science 
 * Python (Pandas, Lifelines, Matplotlib, Seaborn)
 * Jupyter Notebook
 * Statistical modeling (Kaplan-Meier, CoxPH, Log-rank)
+
+## Contributors 
+This project is a joint academic research undertaken as part of the requirements for the award of the Bachelor of Science in Mathematics and Computer Science degree at Multimedia University of Kenya.
+
+We gratefully acknowledge the following contributors whose dedication and input were vital to the success of this study:
+
+Emmanuel Ratemo
+
+Hill Arimba
+
+Denis Mutuku
+
+Bravin Otieno
+
+Their contributions were instrumental in data analysis, modeling, and interpretation throughout the project.
