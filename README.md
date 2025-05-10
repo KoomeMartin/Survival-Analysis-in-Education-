@@ -71,7 +71,7 @@ We gratefully acknowledge the following contributors whose dedication and input 
 
 * Martin Koome
 
-* Emmanuel Ratemo @nyagucha
+* Emmanuel Ratemo 
 
 * Hill Arimba
 
