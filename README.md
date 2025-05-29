@@ -71,11 +71,11 @@ We gratefully acknowledge the following contributors whose dedication and input 
 
 * Martin Koome 
 
-* Emmanuel Ratemo  ![GitHub](https://github.com/nyagucha)
+* Emmanuel Ratemo  <a href='https://github.com/nyagucha'>GitHub<a/>
 
-* Hill Arimba    ![GitHub](https://github.com/Hill-Arimba99)
+* Hill Arimba    <a href='https://github.com/Hill-Arimba99'>GitHub<a/>
 
-* Denis Mutuku
+* Denis Mutuku 
 
 * Bravin Otieno
 
