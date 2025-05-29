@@ -69,11 +69,11 @@ This project is a joint academic research undertaken as part of the requirements
 
 We gratefully acknowledge the following contributors whose dedication and input were vital to the success of this study:
 
-* Martin Koome
+* Martin Koome 
 
-* Emmanuel Ratemo 
+* Emmanuel Ratemo  ![GitHub](https://github.com/nyagucha)
 
-* Hill Arimba
+* Hill Arimba    ![GitHub](https://github.com/Hill-Arimba99)
 
 * Denis Mutuku
 
